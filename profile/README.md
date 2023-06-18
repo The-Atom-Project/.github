@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="128" height="128" src="">
+  <img align="center" width="128" height="128" src="https://github.com/The-Atom-Project/.github/blob/main/profile/assets/image.png?raw=true">
 </p>
 
 <h3 align="center">The Atom Project</h3>
