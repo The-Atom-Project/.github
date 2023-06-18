@@ -25,7 +25,7 @@
   	src="https://img.shields.io/github/issues/The-Atom-Project/The-Atom-Project/?style=for-the-badge&logo=gitbook&color=70a5eb&logoColor=b6beca&labelColor=1a1e24"
 	>
   </a>
-  <a href="https://discord.com/a">
+  <a href="https://discord.gg/qYvtuwfK5M">
 	<img
   	alt="Discord"
   	src="https://img.shields.io/discord/1119799895558201435?style=for-the-badge&logo=discord&color=74bee9&logoColor=b6beca&labelColor=1a1e24"
