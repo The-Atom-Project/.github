@@ -16,13 +16,13 @@
   <a href="https://github.com/The-Atom-Project/The-Atom-Project/stargazers">
 	<img
   	alt="Stargazers"
-  	src="https://img.shields.io/github/stars/The-Atom-Project/The-Atom-Project/?style=for-the-badge&logo=starship&color=78dba9&logoColor=b6beca&labelColor=1a1e24"
+  	src="https://img.shields.io/github/stars/The-Atom-Project/The-Atom-Project?style=for-the-badge&logo=starship&color=0d0f18&logoColor=b6beca&labelColor=fa354c"
 	>
   </a>
   <a href="https://github.com/The-Atom-Project/The-Atom-Project/issues">
 	<img
   	alt="Issues"
-  	src="https://img.shields.io/github/issues/The-Atom-Project/The-Atom-Project/?style=for-the-badge&logo=gitbook&color=70a5eb&logoColor=b6beca&labelColor=1a1e24"
+  	src="https://img.shields.io/github/issues/The-Atom-Project/The-Atom-Project?style=for-the-badge&logo=gitbook&color=0d0f18&logoColor=b6beca&labelColor=0bbebb"
 	>
   </a>
   <a href="https://discord.gg/qYvtuwfK5M">
